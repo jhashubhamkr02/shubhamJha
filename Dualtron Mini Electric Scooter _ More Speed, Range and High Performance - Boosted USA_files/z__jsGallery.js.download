@@ -1,0 +1,2 @@
+"use strict";Shopify.theme.jsGallery={init:function(e){Shopify.theme.jsGallery=$.extend(this,Shopify.theme.getSectionData(e));var t=0;this.show_gutter==!0&&(t=20),this.gallery_type=="masonry"?Shopify.theme.applyMasonry(".gallery__item",t):this.gallery_type=="horizontal-masonry"&&Shopify.theme.applyHorizontalMasonry()},unload:function(e){}};
+//# sourceMappingURL=/s/files/1/0268/1454/6031/t/3/assets/z__jsGallery.js.map?v=12112826367421463867
